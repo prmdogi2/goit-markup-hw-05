@@ -431,7 +431,7 @@ label {
   border: 1px solid rgba(255, 255, 255, 1);
   padding: 4px;
   border-radius: 4px;
-  color: #2e2f42;
+  color: white;
   width: 264px;
   height: 40px;
   border-width: 1px;
@@ -440,6 +440,7 @@ label {
   line-height: 24px;
   letter-spacing: 4%;
   padding: 16px;
+  outline: none;
 }
 
 .son::placeholder {
